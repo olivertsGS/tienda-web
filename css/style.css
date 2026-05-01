@@ -152,7 +152,10 @@ body {
  
 .formulario:hover {
     transform: scale(1.05);
- 
+}
+
+.formulario button:focus {
+    background-color: #1a7f37;
 }
  
 .inputForm {
